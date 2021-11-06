@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Sreeja
-- 👀 I’m interested in guitar,painting and reading books
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Sreeja
+I’m interested in guitar,painting and reading books
+Nice to meet u all
 
 <!---
 Sreeja2211/Sreeja2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
